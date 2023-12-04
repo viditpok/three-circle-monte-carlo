@@ -25,7 +25,7 @@ This Python script is a Monte Carlo simulation tool designed to estimate the ove
 ## Example
 
 An example input might look like this:
-
+```
 Enter center coordinates for circle A (x,y): 100,100
 Enter radius for circle A: 31
 Enter center coordinates for circle B (x,y): -1,55
@@ -33,7 +33,7 @@ Enter radius for circle B: 95
 Enter center coordinates for circle C (x,y): 125,50
 Enter radius for circle C: 60
 Enter the number of points for accuracy: 100000
-
+```
 After inputting the above, the script will perform the simulation and display the results.
 
 ## Note
